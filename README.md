@@ -4,7 +4,7 @@
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 
-# I am Hrishikesh , HRISHIKESH-CODER . 
+# I am kk39yy1，I am a pokemon battle lover,and I also love programing. Hope you can see my work.
 ## I am a programmer
 
 - <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width=50 height=50>  I know Python and I love to code in Python . I am proficient in Django, a web development framework. I also know a bit of machine learning and AI . <br>
